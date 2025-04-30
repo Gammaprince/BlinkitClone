@@ -1,8 +1,8 @@
 # blinkit_home_ui
 
-To run the project kindly clone this repository in your system and then run the app.
+To run the project, please clone this repository to your local system and follow the standard steps to run the app.
 
-If I would have more time , I could enhance UI much more and I could work on search bar as well for more animating effect. 
+Given more time, I would have further enhanced the user interface and added more dynamic animations to the search bar for a smoother user experience.
 
 ![WhatsApp Image 2025-04-30 at 14 25 22](https://github.com/user-attachments/assets/9f2c32dd-4016-4622-97f0-f7c5062e97a9)
 ![WhatsApp Image 2025-04-30 at 14 25 21](https://github.com/user-attachments/assets/289f088d-a827-4a05-a173-19d879a05d96)
